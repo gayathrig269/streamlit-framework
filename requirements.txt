@@ -9,6 +9,3 @@ numpy
 matplotlib
 yfinance
 ta
-BollingerBands
-MACD
-RSIIndicator
