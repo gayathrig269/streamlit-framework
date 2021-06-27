@@ -6,7 +6,7 @@ altair
 bokeh
 requests
 numpy
-matplotlib.pyplot
+matplotlib
 yfinance
 ta
 BollingerBands
