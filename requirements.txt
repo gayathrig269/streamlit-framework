@@ -5,3 +5,10 @@ python-dotenv
 altair
 bokeh
 requests
+numpy
+matplotlib.pyplot
+yfinance
+ta
+BollingerBands
+MACD
+RSIIndicator
